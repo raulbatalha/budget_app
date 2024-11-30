@@ -1,0 +1,29 @@
+{
+    "devices": [
+      {
+        "platform": "Android",
+        "device_name": "emulator-5554",
+        "app_path": "app/budgetwatch.apk",
+        "app_package": "protect.budgetwatch",
+        "app_activity": ".MainActivity"
+      },
+      {
+        "platform": "Android",
+        "device_name": "R58M32S3FBW",
+        "app_path": "app/budgetwatch.apk",
+        "app_package": "protect.budgetwatch",
+        "app_activity": ".MainActivity"
+      },
+      {
+        "platform": "iOS",
+        "device_name": "AEB1C349-56F2-4B32-84E5-82C0B93BE60A",
+        "app_path": "app/app.ipa"
+      },
+      {
+        "platform": "iOS",
+        "device_name": "iPhone 14 Pro Max",
+        "app_path": "app/app.ipa"
+      }
+    ]
+  }
+  

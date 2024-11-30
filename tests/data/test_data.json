@@ -1,0 +1,16 @@
+{
+    "budget": {
+      "valid_type": "supermarket",
+      "valid_value": "600",
+      "invalid_value": "78589321546212",
+      "empty_type": "",
+      "empty_value": "",
+      "long_type": "manutençãogeraldaengenhariadafabricaduranteoano"
+    },
+    "messages": {
+      "empty_budget_value": "Budget value is empty",
+      "empty_budget_type": "Budget type is empty",
+      "long_budget_value": "Budget value is too large"
+    }
+  }
+  
