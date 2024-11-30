@@ -1,7 +1,3 @@
-Segue o arquivo `README.md` para o seu projeto, documentando a estrutura e as funcionalidades:
-
----
-
 # Automação de Testes Mobile com Appium e Selenium
 
 Este projeto é uma solução de automação de testes para aplicativos móveis, utilizando **Appium** e **Selenium** para suportar dispositivos Android e iOS. Ele possui uma estrutura modular e escalável, permitindo a fácil manutenção e integração de novos dispositivos ou funcionalidades.
